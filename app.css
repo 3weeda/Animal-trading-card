@@ -1,0 +1,47 @@
+h3 {
+  font-size: 25px;
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+img {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+.fact {
+  font-style: italic;
+}
+.bold {
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+  position: relative;
+  right: 40px;
+}
+.card {
+  width: 390px;
+  border: solid #808080;
+  border-width: 1px;
+  background-color: #FAE3D9;
+  border-radius : 10px;
+  box-shadow : 10px 10px 10px grey;
+  padding-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.info {
+  width: 327px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid #808080;
+  border-width: 1px;
+  border-radius: 10px;
+  padding: 0px 5px 0px 10px;
+}
+body {
+  font-family: 'Vollkorn', serif;
+}
